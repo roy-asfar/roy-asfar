@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roy-asfar
-- 👀 I’m interested in building engineering and data teams
+- 👀 I’m interested in building agile engineering and data teams
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on enterprise level engineering and ML projects
 - 📫 How to reach me TBD
